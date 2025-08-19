@@ -1,1 +1,1 @@
-# ind_ai
+# ind_ai_proj
